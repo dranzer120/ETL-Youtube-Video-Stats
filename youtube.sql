@@ -8,3 +8,5 @@ CREATE TABLE videos (
 	dislikes int,
 	comment_total int
 );
+
+SELECT * FROM videos;
